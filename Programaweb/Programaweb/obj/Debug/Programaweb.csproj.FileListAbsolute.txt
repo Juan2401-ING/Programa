@@ -1,0 +1,9 @@
+C:\Users\patty\source\repos\Programaweb\Programaweb\bin\Debug\Programaweb.exe.config
+C:\Users\patty\source\repos\Programaweb\Programaweb\bin\Debug\Programaweb.exe
+C:\Users\patty\source\repos\Programaweb\Programaweb\bin\Debug\Programaweb.pdb
+C:\Users\patty\source\repos\Programaweb\Programaweb\obj\Debug\Programaweb.csprojAssemblyReference.cache
+C:\Users\patty\source\repos\Programaweb\Programaweb\obj\Debug\Programaweb.Form1.resources
+C:\Users\patty\source\repos\Programaweb\Programaweb\obj\Debug\Programaweb.Properties.Resources.resources
+C:\Users\patty\source\repos\Programaweb\Programaweb\obj\Debug\Programaweb.csproj.GenerateResource.cache
+C:\Users\patty\source\repos\Programaweb\Programaweb\obj\Debug\Programaweb.exe
+C:\Users\patty\source\repos\Programaweb\Programaweb\obj\Debug\Programaweb.pdb
